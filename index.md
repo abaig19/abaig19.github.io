@@ -13,8 +13,8 @@ In my free time, I enjoy running, painting, and playing board games. I also love
 
 ## About My Advisor
 
-My advisor for this research project is Sharief Oteafy. Dr. Oteafy is an Associate Professor in the School of Computing at Jarvis College of Computing and Digital Media, DePaul University, and a senior IEEE member. He also hold the position of Adjunct Associate Professor in the School of Computing at Queen's University. He founded the Next Generation Networking (NexGeN) lab at DePaul University, where he focuses on interdisciplinary development in IoT and Tactile Internet architectures. He collaborates with the Telecommunications Research Lab at Queen’s University and am the lead technical editor and secretary for the IEEE P1918.1 Tactile Internet Standard, set for publication in Q1 2023. Dr. Oteafy research interests span novel paradigms in sensor networks, advancing core technologies in the Internet of Things and synergy efforts in next generation context-aware sensing systems and content-centric networks. More information about Dr. Oteafy's work can be found here: https://www.soteafy.com
-
+Sharief Oteafy is an Associate Professor at the School of Computing, DePaul University, where he founded the Next Generation Networking lab. His research focuses on developing the Tactile Internet, Medical IoT, dynamic architectures for interoperability in the Internet of Things, and orchestration of Big Sensed Data. He is the lead technical editor of the IEEE Tactile Internet Standard. He co-authored a book on “Dynamic Wireless Sensor Networks” and over 80 papers. He served as the General Chair of IEEE LCN 2023, and co-chaired a number of IEEE conferences and symposia. He has been delivering tutorials on IoT and Tactile Internet since 2014. He is currently an Associate Editor with IEEE Communications Magazine and on the editorial board of Wiley’s Internet Technology Letters. 
+ 
 
 ## About My Project
 
