@@ -20,7 +20,7 @@ Sharief Oteafy is an Associate Professor at the School of Computing, DePaul Univ
 
 The project focuses on using Cellular Automata models to predict bike movements in urban environments to improve wireless access point (WAP) placement. By modeling bike trajectories, the goal is to strategically deploy WAPs to ensure reliable wireless connectivity and eliminate connectivity dead spots for bike riders in urban grids.
 
-[My Final Report](files)
+[My Final Report](files/dream.pdf)
 
 ## My Blog
 
